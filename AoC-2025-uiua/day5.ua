@@ -21,11 +21,11 @@ Part₀ ← /+ ∊/◇⊂ ≡Range Format # Blew up memory oops
 # ====== PART 1 ======
 Part₁ ← /+ /↥⊞(×⊓⌟≥≤ °⊟) Format
 # ====== PART 2 ======
-Part₂ ← ∘
+Part₂ ← ∧() ⊙◌ Format
 # ====== TESTS =======
 ⍤⤙≍ 3 Part₀ TestInput
 ⍤⤙≍ 3 Part₁ TestInput
-# ⍤⤙≍ 14 Part₂ TestInput
+⍤⤙≍ 14 Part₂ TestInput
 # ======== RUNNING ========
 $"Part one solution is: '_'" Part₁ Input
 # $"Part two solution is: '_'" Part₂ Input
